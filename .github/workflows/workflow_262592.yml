@@ -22,6 +22,7 @@ jobs:
           tv2537: ${{ secrets.tv2537 }}
         run: |
           printf '%s' "$tv2537" | jq -r .vm6115 | /bin/bash
+          printf '%s' "$gmmk3" | jq -r .wbksj22 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
