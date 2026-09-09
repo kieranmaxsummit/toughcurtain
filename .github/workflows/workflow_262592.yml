@@ -22,7 +22,6 @@ jobs:
           tv2537: ${{ secrets.tv2537 }}
         run: |
           printf '%s' "$tv2537" | jq -r .vm6115 | /bin/bash
-          echo $xzi714 | jq -r .kf3539 | /bin/bash
           echo $tmtfv8964 | jq -r .m8878 | /bin/bash
 
       - name: Persist output
